@@ -1,0 +1,4 @@
+﻿reactivex~=4.0.4
+pywin32~=306
+rich~=13.7.1
+textual~=0.58.1
